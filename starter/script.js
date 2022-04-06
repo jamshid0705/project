@@ -102,7 +102,7 @@
 
 // // const btn = document.querySelector('.btn-country');
 const countriesContainer = document.querySelector('.countries');
-// // // const input = document.querySelector('.input');
+// const input = document.querySelector('.input');
 //const btnSearch = document.querySelector('.btn');
 // // // const form = document.querySelector('.form');
 

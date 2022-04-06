@@ -114,7 +114,7 @@ const countriesContainer = document.querySelector('.countries');
 
 // // //   request1.addEventListener('load', function () {
 // // //     let [data]= JSON.parse(request1.responseText);
-// // //     renderHtml(data);
+//   renderHtml(data);
 // // //     console.log(data.borders[0]);
     
 // // //       let border=data.borders;
